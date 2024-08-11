@@ -1,1 +1,1 @@
-nano /var/www/html/nextcloud/config/config.php
+nano /var/www/html/config/config.php
