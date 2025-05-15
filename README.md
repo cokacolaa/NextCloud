@@ -3,7 +3,7 @@
 ### install 
 
 ```
-git clone https://github.com/dylansysops/nextcloud.git
+git clone https://github.com/cokacolaa/nextcloud.git
 cd ./nextcloud
 docker-compose up -d 
 ```
